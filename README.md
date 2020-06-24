@@ -1,1 +1,1 @@
-# Longest-common-subsequence-Algorith
+# Longest-common-subsequence-Algorithm
